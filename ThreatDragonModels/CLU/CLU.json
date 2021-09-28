@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "CLU",
+    "owner": "Deepthi Gunda"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "CLU",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Deepthi"
+  }
+}
